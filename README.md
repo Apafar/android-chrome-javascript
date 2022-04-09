@@ -1,1 +1,1 @@
-# android-chrome-javascript
+# android-chrome-javascript ... go to any site in android chrome and add to bookmark ⭐ then. edit and in url paste the code, in name put something like Apafar JavaScript code as i do.... whenever u want to use the thr js console type apafar JavaScript in url bar and done 🧰
